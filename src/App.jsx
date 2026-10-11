@@ -1,16 +1,10 @@
 import { useEffect, useMemo, useState } from 'react'
 import {
-  AlertTriangle,
-  ArrowUpRight,
   Download,
   Globe,
   LogOut,
   Menu,
-  MonitorSmartphone,
   Shield,
-  Smartphone,
-  Sparkles,
-  Wifi,
 } from 'lucide-react'
 import Sidebar from './components/Sidebar'
 import TopBar from './components/TopBar'
